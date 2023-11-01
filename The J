@@ -1,0 +1,49 @@
+"Программа для рисования
+Функционал:
+
+Основные инструменты рисования: Здесь будут карандаши, кисти, цвета и различные формы.
+Слои для управления: Поможет удобно редактировать разные элементы независимо друг от друга.
+Анимация и формы: Возможность создавать анимации, рисовать формы и изменять размеры (В 3д режиме можно изменять тени, добавлять свет). Возможность делать 3д анимации.
+Элементы интерфейса: Заглавие окна, панель меню, панель инструментов, список изображений, рабочая область, окно инструментов, журнал, окно слоев.
+
+Инструменты рисования: Карандаш, заливка, кисть, текст, градиент, шейдеры, покадровая анимация, фигуры (2д и 3д), симуляция обьектов в реальном времени.
+Панель слоев: Простой способ управлять слоями.
+Кнопки "Отменить" и "Повторить": Для быстрого отмены или повтора действий.
+Палитра цветов и эффектов: Простое изменение цветов и добавление эффектов, возможность применять градиент или шейдер к фигуре или картинки.
+Ввод данных: Поддержка мыши, стилусов и графических планшетов.
+
+Отображение результатов:
+Работы пользователей будут сохраняться как изображения или анимации, также их можно будет опубликовать в социальных сетях.
+
+Ввод данных: Пользователь рисует различные изображения, используя доступные инструменты.
+Результаты: Созданные изображения или анимации с различными рисунками.
+Видение приложения:
+Это простая и удобная платформа как для начинающих, так и для опытных пользователей. Интерфейс создан для доступа к функциям и инструментам, сохраняя при этом высокий потенциал для творчества. Пользователи смогут экспериментировать, создавать и делиться своими работами."
+
+
+
+
+
+Zīmēšanas programma
+Funkcionalitāte:
+
+Pamata zīmēšanas rīki: Būs zīmuļi, otas, ziedi un dažādas formas.
+Kontroles slāņi: palīdzēs viegli rediģēt dažādus elementus neatkarīgi vienu no otra.
+Animācija un formas: Iespēja veidot animāciju, zīmēt formas un mainīt izmērus (3. režīmā var mainīt ēnas, pievienot gaismu). Spēja izveidot 3D animāciju.
+Interfeisa elementi: Virsraksta logs, izvēļņu josla, rīkjosla, attēlu saraksts, darba zona, rīku logs, žurnāls, slāņu logs.
+
+Zīmēšanas rīki: zīmulis, aizpildījums, ota, teksts, gradients, ēnotāji, animācija pa kadram, formas (2D un 3D), reāllaika objektu simulācija.
+Slāņu panelis: vienkāršs veids, kā pārvaldīt slāņus.
+Pogas Atsaukt un Atkārtot: lai ātri atsauktu vai atkārtotu darbības.
+Krāsu un efektu palete: viegli mainiet krāsas un pievienojiet efektus, iespēja izmantot formai vai attēlam gradientu vai ēnotāju.
+Datu ievade: atbalsta peli, irbuli un grafikas planšetdatorus.
+
+Rāda rezultātus:
+Lietotāju darbi tiks saglabāti kā attēli vai animācijas, un tos varēs arī publicēt sociālajos tīklos.
+
+Datu ievade: lietotājs zīmē dažādus attēlus, izmantojot pieejamos rīkus.
+Rezultāti: izveidoti attēli vai animācijas ar dažādu dizainu.
+Lietojumprogrammas vīzija:
+Tā ir vienkārša un lietotājam draudzīga platforma gan iesācējiem, gan pieredzējušiem lietotājiem. Saskarne ir izstrādāta tā, lai jūs varētu piekļūt funkcijām un rīkiem, vienlaikus nodrošinot lielisku radošumu. Lietotāji varēs eksperimentēt, izveidot un dalīties ar saviem darbiem."
+
+
